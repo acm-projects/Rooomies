@@ -33,11 +33,13 @@ We’ve all heard of roommate horror stories. Or maybe you experienced them your
 
 # Things to Install
 
-- IDE: Android Studio
-- Version Control: Git
+- IDE: <a href = "https://developer.android.com/studio"> Android Studio</a>
+- Version Control: Git (see powerpoint)
 - <a href = "https://www.geeksforgeeks.org/android-studio-setup-for-flutter-development/"> Flutter/Firebase</a>
 - <a href = "https://learn.microsoft.com/en-us/windows/dev-environment/javascript/react-native-for-android"> React Native/Node.js </a>
 -
 
 
 # Tutorials
+
+
