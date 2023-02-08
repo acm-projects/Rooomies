@@ -55,45 +55,45 @@ We’ve all heard of roommate horror stories. Or maybe you experienced them your
 
 # Timeline
 
-## Week 1: 
+#### Week 1: 
 - Decide on roles
 - Confirm app MVP and techstack
 - Download software, set up environment and Git, watch tutorials
 
-## Week 2:
+#### Week 2:
 - Brainstorm front-end design and finish prototype
 - Watch tutorials, setup database and make user authentification
 
-## Week 3:
+#### Week 3:
 - Edit and finish (detailed) wireframes on Figma (see MVP)
   - Login page, create/join roommates page, chores page, schedules page, settings
 - Allow users to join groups
 
-## Week 4:
+#### Week 4:
 - Begin implementing pages
 - Create way for users to have chores assigned to them
 
-## Week 5:
+#### Week 5:
 - Continue implementing pages while integrating with backend
 - Mark chores as urgent if deadline missed
 
-## Week 6:
+#### Week 6:
 - Start adding UI animations while integrating with backend
 - Assign chores randomly 
 
-## Week 7:
+#### Week 7:
 - Add UI animations and integrate with backend
 - Automatically send reminders about chores
 
-## Week 8:
+#### Week 8:
 - Complete integration
 - begin working on presentation
 
-## Week 9:
+#### Week 9:
 - Finish presentation and being practicing
 - Brainstorm fun ideas for presentation
 
-## Week 10:
+#### Week 10:
 - Prepare for presentation!
 
 # Competition
