@@ -17,17 +17,21 @@ We’ve all heard of roommate horror stories. Or maybe you experienced them your
 
 # Stretch Goals
 
-- “BTW” button- Shortcuts to notify everyone that persist in app for as long as its relevant
+- UI transitions/animations using Flutter animation widgets or React Spring
+- Dark Mode
+-  “BTW” button- Shortcuts to notify everyone that persist in app for as long as its relevant
   - “Person A will be home late today”
   - “Person B will do this chore three days late”
 - Give warnings to those who consistently skip chores
 - Keep track of which users consistently complete chores, use to connect with good roommates
+
 
 # Tech Stack
 
 - Frontend
   - Figma
   - Flutter or React Native
+  - React Spring
 - Backend
   - Firebase or Node.js
 
@@ -37,9 +41,61 @@ We’ve all heard of roommate horror stories. Or maybe you experienced them your
 - Version Control: Git (see powerpoint)
 - <a href = "https://www.geeksforgeeks.org/android-studio-setup-for-flutter-development/"> Flutter/Firebase</a>
 - <a href = "https://learn.microsoft.com/en-us/windows/dev-environment/javascript/react-native-for-android"> React Native/Node.js </a>
--
 
 
 # Tutorials
 
+- <a href = "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ"> basics of Flutter</a>
+- <a href = "https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC"> linking Firebase to Flutter</a>
+- <a href = "https://youtu.be/rWamixHIKmQ"> User authentification with Firebase</a>
+- <a href = "https://youtu.be/6tEV6H07Fd8"> How to install React Native</a>
+- <a href = "https://youtu.be/P5QbE9aRCLQ?list=PLaAoUJDWH9WrPXMOkqHHsPHxbhvRDqryM"> Getting started with Node.js</a>
+- <a href = "https://www.react-spring.dev/docs/getting-started"> Animations with React Spring </a>
+- <a href = "https://docs.flutter.dev/development/ui/animations"> Animations with Flutter widgets </a>
 
+# Timeline
+
+## Week 1: 
+- Decide on roles
+- Confirm app MVP and techstack
+- Download software, set up environment and Git, watch tutorials
+
+## Week 2:
+- Brainstorm front-end design and finish prototype
+- Watch tutorials, setup database and make user authentification
+
+## Week 3:
+- Edit and finish (detailed) wireframes on Figma (see MVP)
+  - Login page, create/join roommates page, chores page, schedules page, settings
+- Allow users to join groups
+
+## Week 4:
+- Begin implementing pages
+- Create way for users to have chores assigned to them
+
+## Week 5:
+- Continue implementing pages while integrating with backend
+- Mark chores as urgent if deadline missed
+
+## Week 6:
+- Start adding UI animations while integrating with backend
+- Assign chores randomly 
+
+## Week 7:
+- Add UI animations and integrate with backend
+- Automatically send reminders about chores
+
+## Week 8:
+- Complete integration
+- begin working on presentation
+
+## Week 9:
+- Finish presentation and being practicing
+- Brainstorm fun ideas for presentation
+
+## Week 10:
+- Prepare for presentation!
+
+# Competition
+- OurHome
+- Sweepy
