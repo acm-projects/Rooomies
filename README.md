@@ -105,7 +105,7 @@ We’ve all heard of roommate horror stories. Or maybe you experienced them your
 | Command | Description |
 | --- | --- |
 | cd "Rooomies" | Change directories to our repository |
-| git branch || Lists branches for you |
+| git branch | Lists branches for you |
 | git branch "branch name" |  Makes a new branch |
 | git checkout "branch name" | Switch to branch |
 | git checkout -b "branch name" | Same as the 2 previous commands together |
