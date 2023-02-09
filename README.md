@@ -99,3 +99,17 @@ We’ve all heard of roommate horror stories. Or maybe you experienced them your
 # Competition
 - OurHome
 - Sweepy
+
+# Github CheatSheet!
+
+| Command | Description |
+| --- | --- |
+| cd "Rooomies" | Change directories to our repository |
+| git branch || Lists branches for you |
+| git branch "branch name" |  Makes a new branch |
+| git checkout "branch name" | Switch to branch |
+| git checkout -b "branch name" | Same as the 2 previous commands together |
+| git add . | Finds all changed files |
+| git commit -m "Testing123" | Commit with message |
+| git push origin "branch" | Push to branch |
+| git pull origin "branch" | Pull updates from a specific branch | 
