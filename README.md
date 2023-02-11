@@ -11,6 +11,7 @@ We’ve all heard of roommate horror stories. Or maybe you experienced them your
 - Chores section
   - List of chores, each of which would have who’s turn it is to complete it (alternating, always one person, etc) and when it was last completed
   - How often it should be completed
+- Grocery list
 - Options for other roommates to offer to do someone else’s chore or to request for someone else to do their chore if any circumstances arise
 - Schedule section
 - Upload weekly schedule of all roommates (class/work hours)
@@ -24,6 +25,7 @@ We’ve all heard of roommate horror stories. Or maybe you experienced them your
   - “Person B will do this chore three days late”
 - Give warnings to those who consistently skip chores
 - Keep track of which users consistently complete chores, use to connect with good roommates
+- Group chat feature
 
 
 # Tech Stack
