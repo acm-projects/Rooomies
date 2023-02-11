@@ -101,7 +101,9 @@ We’ve all heard of roommate horror stories. Or maybe you experienced them your
 - Sweepy
 
 # Github CheatSheet!
+Master cheatsheet: https://www.atlassian.com/dam/jcr:8132028b-024f-4b6b-953e-e68fcce0c5fa/atlassian-git-cheatsheet.pdf
 
+Some basic ones:
 | Command | Description |
 | --- | --- |
 | cd "Rooomies" | Change directories to our repository |
