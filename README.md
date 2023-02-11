@@ -115,3 +115,11 @@ Some basic ones:
 | git commit -m "Testing123" | Commit with message |
 | git push origin "branch" | Push to branch |
 | git pull origin "branch" | Pull updates from a specific branch | 
+
+# Developers
+### Front end
+- Shreya
+- Jesus
+###Back end
+- Vaishnavi
+- Rishi
