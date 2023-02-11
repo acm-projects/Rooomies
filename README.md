@@ -122,4 +122,4 @@ Some basic ones:
 - Jesus
 ### Back end
 - Vaishnavi
-- Rishi
+- Rishil
