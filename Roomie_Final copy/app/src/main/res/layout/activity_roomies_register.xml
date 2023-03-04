@@ -8,7 +8,7 @@
     android:padding="15dp"
     android:layout_height="match_parent"
     tools:context=".RoomiesRegister">
-
+// hey guys!!!!
     <TextView
         android:text="@string/register_to_roomies"
         android:textSize ="20sp"
