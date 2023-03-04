@@ -16,7 +16,8 @@
         android:textSize="50sp"
         android:textStyle="bold"
         android:textColor="@color/black"
-        android:customFont="DM_Sans.otf"
+        android:typeface="serif"
+
 
         />
 
